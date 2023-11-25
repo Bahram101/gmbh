@@ -1,5 +1,5 @@
 <?php
-define( "WEBMASTER_EMAIL", 'your-email@domain.com' );
+define( "WEBMASTER_EMAIL", 'bahram101@mail.ru' );
 
 $error = false;
 $fields = array( 'name', 'email', 'subject', 'message' );
